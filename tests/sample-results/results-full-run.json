@@ -1,0 +1,2726 @@
+[
+  {
+    "device": "iPhone SE",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone SE",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 15 Pro Max",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7)",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Pro 11 landscape",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad Mini",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 landscape",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy S9+",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Galaxy Tab S4 landscape",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome 1366",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge 1920",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "guest /register: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "guest /login: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "guest /lesson/2: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "guest: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "student /: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "student /grade/10: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "student /grade/12: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "student /lesson/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "student /textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "student /account: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "student: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "pending /enroll: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "pending: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "teacher /admin: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "teacher /admin/enrollments: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "teacher /admin/course: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "teacher /admin/lessons/1: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "teacher /admin/textbooks: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "teacher /admin/settings: no horizontal overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari 1440 (Mac UA)",
+    "name": "teacher: no JavaScript errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "register with name, email, grade and password — no verification email needed",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "after signing in, return to the lesson the student was viewing",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "enroll page shows price, the student’s own grade, terms and the teacher’s WhatsApp number before paying",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "“Pay via WhatsApp” creates a pending request and opens WhatsApp in a new tab (site stays open)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "status shows “Awaiting confirmation”; number and reference always visible",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "reference can be copied (for another device or a parent)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "reopening WhatsApp reuses the same reference",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "paid video stays locked before approval (page + API)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile) → Teacher on desktop",
+    "name": "teacher finds the request by reference (parent paid from another phone) and approves",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "approval email has a direct course link",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "status changes to “Access granted”",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "lesson plays after approval (private, token-protected stream)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "full screen works",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "progress saves and the lesson resumes from the same point",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "after a lost connection the video resumes at the same point",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "a Grade 10 student cannot unlock Grade 11 videos (page + API)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "video has no download button, right-click save or picture-in-picture",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "textbook page lists the grade’s textbook",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 (iOS Safari profile)",
+    "name": "revoking access stops new playback tokens and the open stream",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "register with name, email, grade and password — no verification email needed",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "after signing in, return to the lesson the student was viewing",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "enroll page shows price, the student’s own grade, terms and the teacher’s WhatsApp number before paying",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "“Pay via WhatsApp” creates a pending request and opens WhatsApp in a new tab (site stays open)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "status shows “Awaiting confirmation”; number and reference always visible",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "reference can be copied (for another device or a parent)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "reopening WhatsApp reuses the same reference",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "paid video stays locked before approval (page + API)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape → Teacher on iPad",
+    "name": "teacher finds the request by reference (parent paid from another phone) and approves",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "approval email has a direct course link",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "status changes to “Access granted”",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "lesson plays after approval (private, token-protected stream)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "full screen works",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "progress saves and the lesson resumes from the same point",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "after a lost connection the video resumes at the same point",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "a Grade 10 student cannot unlock Grade 11 videos (page + API)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "video has no download button, right-click save or picture-in-picture",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad (gen 7) landscape",
+    "name": "textbook page lists the grade’s textbook",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "register with name, email, grade and password — no verification email needed",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "after signing in, return to the lesson the student was viewing",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "enroll page shows price, the student’s own grade, terms and the teacher’s WhatsApp number before paying",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "“Pay via WhatsApp” creates a pending request and opens WhatsApp in a new tab (site stays open)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "status shows “Awaiting confirmation”; number and reference always visible",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "reference can be copied (for another device or a parent)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "reopening WhatsApp reuses the same reference",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "paid video stays locked before approval (page + API)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile) → Teacher on desktop",
+    "name": "teacher finds the request by reference (parent paid from another phone) and approves",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "approval email has a direct course link",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "status changes to “Access granted”",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "lesson plays after approval (private, token-protected stream)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "full screen works",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "progress saves and the lesson resumes from the same point",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "after a lost connection the video resumes at the same point",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "a Grade 10 student cannot unlock Grade 11 videos (page + API)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "video has no download button, right-click save or picture-in-picture",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "textbook page lists the grade’s textbook",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Pixel 7 (Android Chrome profile)",
+    "name": "expired access is enforced on the server and shown to the student",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "register with name, email, grade and password — no verification email needed",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "after signing in, return to the lesson the student was viewing",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "enroll page shows price, the student’s own grade, terms and the teacher’s WhatsApp number before paying",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "“Pay via WhatsApp” creates a pending request and opens WhatsApp in a new tab (site stays open)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "status shows “Awaiting confirmation”; number and reference always visible",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "reference can be copied (for another device or a parent)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "reopening WhatsApp reuses the same reference",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "paid video stays locked before approval (page + API)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome → Teacher on desktop",
+    "name": "teacher finds the request by reference (parent paid from another phone) and approves",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "approval email has a direct course link",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "status changes to “Access granted”",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "lesson plays after approval (private, token-protected stream)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "full screen works",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "progress saves and the lesson resumes from the same point",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "after a lost connection the video resumes at the same point",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "keyboard: Space pauses/plays, → seeks when the player is focused",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "a Grade 10 student cannot unlock Grade 11 videos (page + API)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "video has no download button, right-click save or picture-in-picture",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "textbook page lists the grade’s textbook",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "register with name, email, grade and password — no verification email needed",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "after signing in, return to the lesson the student was viewing",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "enroll page shows price, the student’s own grade, terms and the teacher’s WhatsApp number before paying",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "“Pay via WhatsApp” creates a pending request and opens WhatsApp in a new tab (site stays open)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "status shows “Awaiting confirmation”; number and reference always visible",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "reference can be copied (for another device or a parent)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "reopening WhatsApp reuses the same reference",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "paid video stays locked before approval (page + API)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge → Teacher on desktop",
+    "name": "teacher finds the request by reference (parent paid from another phone) and approves",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "approval email has a direct course link",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "status changes to “Access granted”",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "lesson plays after approval (private, token-protected stream)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "full screen works",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "progress saves and the lesson resumes from the same point",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "after a lost connection the video resumes at the same point",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "keyboard: Space pauses/plays, → seeks when the player is focused",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "a Grade 10 student cannot unlock Grade 11 videos (page + API)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "video has no download button, right-click save or picture-in-picture",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Edge",
+    "name": "textbook page lists the grade’s textbook",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "register with name, email, grade and password — no verification email needed",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "after signing in, return to the lesson the student was viewing",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "enroll page shows price, the student’s own grade, terms and the teacher’s WhatsApp number before paying",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "“Pay via WhatsApp” creates a pending request and opens WhatsApp in a new tab (site stays open)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "status shows “Awaiting confirmation”; number and reference always visible",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "reference can be copied (for another device or a parent)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "reopening WhatsApp reuses the same reference",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "paid video stays locked before approval (page + API)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA) → Teacher on desktop",
+    "name": "teacher finds the request by reference (parent paid from another phone) and approves",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "approval email has a direct course link",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "status changes to “Access granted”",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "lesson plays after approval (private, token-protected stream)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "full screen works",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "progress saves and the lesson resumes from the same point",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "after a lost connection the video resumes at the same point",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "keyboard: Space pauses/plays, → seeks when the player is focused",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "a Grade 10 student cannot unlock Grade 11 videos (page + API)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "video has no download button, right-click save or picture-in-picture",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Safari (Mac UA)",
+    "name": "textbook page lists the grade’s textbook",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Teacher on desktop",
+    "name": "create a lesson, upload a video with progress, auto thumbnail + duration",
+    "ok": true,
+    "detail": "/media/img/d672b9c59dee999f2d293a80.jpg"
+  },
+  {
+    "device": "Teacher on desktop",
+    "name": "teacher can preview the draft lesson; students cannot",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Teacher on desktop",
+    "name": "map the lesson to textbook chapter/pages and publish it",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Teacher on iPad",
+    "name": "create a lesson, upload a video with progress, auto thumbnail + duration",
+    "ok": true,
+    "detail": "/media/img/ff1a9778e4327bee5af5fb59.jpg"
+  },
+  {
+    "device": "Teacher on iPad",
+    "name": "teacher can preview the draft lesson; students cannot",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Teacher on iPad",
+    "name": "map the lesson to textbook chapter/pages and publish it",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "API",
+    "name": "official textbook link appears for students only once published with a link type",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "textbook link opens in a new tab with noopener",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "language button switches English ⇄ Kurdish (Badini) and remembers the choice",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop Chrome",
+    "name": "language button switches English ⇄ Kurdish (Badini) and remembers the choice",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 RTL",
+    "name": "/: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 RTL",
+    "name": "/grade/10: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 RTL",
+    "name": "/lesson/1: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 RTL",
+    "name": "/account: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape RTL",
+    "name": "/: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape RTL",
+    "name": "/grade/10: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape RTL",
+    "name": "/lesson/1: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13 landscape RTL",
+    "name": "/account: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad RTL",
+    "name": "/: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad RTL",
+    "name": "/grade/10: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad RTL",
+    "name": "/lesson/1: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPad RTL",
+    "name": "/account: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop RTL",
+    "name": "/: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop RTL",
+    "name": "/grade/10: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop RTL",
+    "name": "/lesson/1: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop RTL",
+    "name": "/account: right-to-left layout, equations stay left-to-right, no overflow",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop keyboard",
+    "name": "skip link, menu and sign-in form work with the keyboard only",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "Desktop keyboard",
+    "name": "chapters expand/collapse with Enter",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "iPhone 13",
+    "name": "menu opens by tap and links are reachable",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "API",
+    "name": "students cannot use any teacher action",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "API",
+    "name": "students opening /admin see “Page not found”",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "API",
+    "name": "guests cannot get playback tokens; demo is public",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "API",
+    "name": "forged or tampered media URLs are refused",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "API",
+    "name": "cross-site POSTs are blocked (CSRF)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "API",
+    "name": "registration requires a grade; grade is locked while a request is pending",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "API",
+    "name": "teacher can move a student to another grade",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "API",
+    "name": "password reset: link works once, old sessions are signed out",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "API",
+    "name": "malformed URLs return 400, not 500",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "API",
+    "name": "renewal after expiry: one pending request, approving it keeps a single current enrollment",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "API",
+    "name": "when the access end date has passed, new enrollment requests are refused",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "device": "API",
+    "name": "login lock-out cannot be forced from another IP on the teacher account",
+    "ok": true,
+    "detail": ""
+  }
+]

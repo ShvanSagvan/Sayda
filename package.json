@@ -1,0 +1,15 @@
+{
+  "name": "adabi-math",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Wezhay / Adabi (Literary) mathematics course site for Grades 10-12 (KRG curriculum), Duhok.",
+  "type": "module",
+  "engines": { "node": ">=22.5" },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js",
+    "create-admin": "node --disable-warning=ExperimentalWarning scripts/create-admin.js",
+    "seed-demo": "node --disable-warning=ExperimentalWarning scripts/seed-demo.js",
+    "test": "node --disable-warning=ExperimentalWarning --test tests/api.test.js",
+    "test:devices": "node --disable-warning=ExperimentalWarning tests/devices.mjs"
+  }
+}
